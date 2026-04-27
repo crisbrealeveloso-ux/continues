@@ -4,7 +4,7 @@ function add(a, b) {
 }
 
 function multiply(a, b) {
-  let result = a * b; 
+  let result = a * b;
 }
 
 function isOdd(num) {
